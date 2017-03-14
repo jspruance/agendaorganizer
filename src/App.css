@@ -1,0 +1,15 @@
+.docimg {
+  display: inline-block;
+  margin-left: 15px;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-position: 0 -3px;
+  background-image: url("./images/doc-sm.png");
+}
+
+.docimg span {
+  margin-left: 22px;
+  font-size: 13px;
+  color: #58cb8e;
+};
