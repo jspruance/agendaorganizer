@@ -1,4 +1,4 @@
-Magic Agenda Organizer - create an agenda with todo items and add upload related documents.
+Magic Agenda Organizer - create an agenda with todo items and add upload related documents. Built with ReactJS & Material UI.
 
 Setup:
 1) Clone or download repository
