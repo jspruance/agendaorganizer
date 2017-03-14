@@ -1,3 +1,12 @@
+Magic Agenda Organizer - create an agenda with todo items and add upload related documents.
+
+Setup:
+1) Clone or download repository
+2) Run 'npm install' in project root folder
+3) Run 'npm start' in project root folder
+4) Access app at 'localhost:3000' in your browser.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
